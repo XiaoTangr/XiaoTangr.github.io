@@ -1,0 +1,11 @@
+# welcome to : shixin.vercel.app
+User-agent: *
+Allow: /
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /lib/
+Disallow: /pages/
+Disallow: /vercel.json
