@@ -58,6 +58,7 @@ https://www.icefox.site/tags/Hexo%E8%AF%84%E8%AE%BA/
 https://www.icefox.site/tags/Nodejs/
 https://www.icefox.site/tags/Windows-11/
 https://www.icefox.site/tags/%E7%B3%BB%E7%BB%9F/
+https://www.icefox.site/tags/VUE%E5%8E%9F%E7%90%86/
 https://www.icefox.site/categories/Windows%E7%A0%B4%E8%A7%A3%E8%BD%AF%E4%BB%B6/
 https://www.icefox.site/categories/Hexo/
 https://www.icefox.site/categories/Alist-V2/
