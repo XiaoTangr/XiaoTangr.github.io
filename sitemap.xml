@@ -304,13 +304,6 @@
   </url>
   
   <url>
-    <loc>https://www.icefox.site/tags/Alist%E9%83%A8%E7%BD%B2/</loc>
-    <lastmod>2024-08-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.icefox.site/tags/Adobe/</loc>
     <lastmod>2024-08-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -339,7 +332,7 @@
   </url>
   
   <url>
-    <loc>https://www.icefox.site/tags/Hexo%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/</loc>
+    <loc>https://www.icefox.site/tags/Alist%E9%83%A8%E7%BD%B2/</loc>
     <lastmod>2024-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -354,6 +347,13 @@
   
   <url>
     <loc>https://www.icefox.site/tags/Hexo%E9%83%A8%E7%BD%B2/</loc>
+    <lastmod>2024-08-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.icefox.site/tags/Hexo%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/</loc>
     <lastmod>2024-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -430,13 +430,6 @@
   </url>
   
   <url>
-    <loc>https://www.icefox.site/tags/Hexo%E4%B8%BB%E9%A2%98/</loc>
-    <lastmod>2024-08-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.icefox.site/tags/Nodejs/</loc>
     <lastmod>2024-08-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -444,14 +437,14 @@
   </url>
   
   <url>
-    <loc>https://www.icefox.site/tags/System-Testing/</loc>
+    <loc>https://www.icefox.site/tags/Hexo%E4%B8%BB%E9%A2%98/</loc>
     <lastmod>2024-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.icefox.site/tags/%E5%89%8D%E7%AB%AF/</loc>
+    <loc>https://www.icefox.site/tags/System-Testing/</loc>
     <lastmod>2024-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -466,6 +459,13 @@
   
   <url>
     <loc>https://www.icefox.site/tags/Hexo%E8%AF%84%E8%AE%BA/</loc>
+    <lastmod>2024-08-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.icefox.site/tags/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2024-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -537,14 +537,14 @@
   </url>
   
   <url>
-    <loc>https://www.icefox.site/categories/%E5%89%8D%E7%AB%AF/</loc>
+    <loc>https://www.icefox.site/categories/C-C/</loc>
     <lastmod>2024-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.icefox.site/categories/C-C/</loc>
+    <loc>https://www.icefox.site/categories/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2024-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
