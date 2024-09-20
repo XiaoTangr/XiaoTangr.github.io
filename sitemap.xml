@@ -352,6 +352,13 @@
   </url>
   
   <url>
+    <loc>https://www.icefox.site/tags/Alist%E4%B8%BB%E9%A2%98/</loc>
+    <lastmod>2024-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.icefox.site/tags/Alist%E9%83%A8%E7%BD%B2/</loc>
     <lastmod>2024-09-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -401,13 +408,6 @@
   </url>
   
   <url>
-    <loc>https://www.icefox.site/tags/Hexo%E9%83%A8%E7%BD%B2/</loc>
-    <lastmod>2024-09-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.icefox.site/tags/Git/</loc>
     <lastmod>2024-09-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -415,7 +415,7 @@
   </url>
   
   <url>
-    <loc>https://www.icefox.site/tags/Alist%E4%B8%BB%E9%A2%98/</loc>
+    <loc>https://www.icefox.site/tags/Hexo%E9%83%A8%E7%BD%B2/</loc>
     <lastmod>2024-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -578,7 +578,7 @@
   </url>
   
   <url>
-    <loc>https://www.icefox.site/categories/Android-Studio/Flutter/</loc>
+    <loc>https://www.icefox.site/categories/Flutter/</loc>
     <lastmod>2024-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -599,14 +599,14 @@
   </url>
   
   <url>
-    <loc>https://www.icefox.site/categories/Android-Studio/Flutter/Dart/</loc>
+    <loc>https://www.icefox.site/categories/VUE/</loc>
     <lastmod>2024-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.icefox.site/categories/VUE/</loc>
+    <loc>https://www.icefox.site/categories/Dart/</loc>
     <lastmod>2024-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -634,6 +634,13 @@
   </url>
   
   <url>
+    <loc>https://www.icefox.site/categories/Git/</loc>
+    <lastmod>2024-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.icefox.site/categories/Spring/Mybites/</loc>
     <lastmod>2024-09-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -642,13 +649,6 @@
   
   <url>
     <loc>https://www.icefox.site/categories/C-C/</loc>
-    <lastmod>2024-09-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.icefox.site/categories/Android-Studio/Flutter/Dart/%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/</loc>
     <lastmod>2024-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -670,27 +670,6 @@
   
   <url>
     <loc>https://www.icefox.site/categories/Windows/</loc>
-    <lastmod>2024-09-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.icefox.site/categories/Git/</loc>
-    <lastmod>2024-09-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.icefox.site/categories/Flutter/</loc>
-    <lastmod>2024-09-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.icefox.site/categories/Dart/</loc>
     <lastmod>2024-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
