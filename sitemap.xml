@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.javat.cn/posts/53571.html</loc>
+    
+    <lastmod>2026-01-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.javat.cn/posts/53577.html</loc>
+    
+    <lastmod>2026-01-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.javat.cn/posts/53621.html</loc>
     
     <lastmod>2026-01-24</lastmod>
@@ -137,15 +155,6 @@
   </url>
   
   <url>
-    <loc>https://blog.javat.cn/posts/53571.html</loc>
-    
-    <lastmod>2026-01-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.javat.cn/posts/29525.html</loc>
     
     <lastmod>2026-01-24</lastmod>
@@ -230,15 +239,6 @@
     <loc>https://blog.javat.cn/posts/60211.html</loc>
     
     <lastmod>2024-03-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.javat.cn/posts/53577.html</loc>
-    
-    <lastmod>2024-03-03</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
